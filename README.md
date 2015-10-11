@@ -36,4 +36,20 @@ The [Hour of Code](https://hourofcode.com) is a global movement reaching tens of
 
 ## Books
 
-_(to be done)_
+### Computer Science
+- 
+
+### Python
+
+- [Python for Kids: A Playful Introduction to Programming] (https://www.nostarch.com/pythonforkids) - Python for Kids by Jason R. Briggs brings Python to life and brings you (and your parents) into the world of programming. 
+- [Teach your Kids to Code: A Parent-Friendly Guide to Python Programming](https://www.nostarch.com/teachkids) - Teach your Kids to Code by Bryson Payne is a parent's and teacher's guide to teaching kids basic programming and problem solving using Python, the powerful language used in college courses and by tech companies like Google and IBM.
+- [Doing Math with Python](https://www.nostarch.com/doingmathwithpython) - Doing Math with Python by Amit Saha shows you how to use Python to delve into high school–level math topics like statistics, geometry, probability, and calculus.
+
+### JavaScript
+
+### Scratch
+
+### Web Design
+
+
+_(in progress)_
