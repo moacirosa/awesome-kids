@@ -8,11 +8,11 @@ I judge interesting to mention it
 
 ## Table of Contents
 
-- [Code.org]()
-- [Hour of Code]()
-- [Games]()
-- [Courses]()
-- [Books]()
+- [Code.org](#codeorg)
+- [Hour of Code](#hour-of-code)
+- [Games](#games)
+- [Courses](#courses)
+- [Books](#books)
 
 ## Code.org
 
@@ -37,21 +37,3 @@ The [Hour of Code](https://hourofcode.com) is a global movement reaching tens of
 ## Books
 
 _(to be done)_
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-create some issues
