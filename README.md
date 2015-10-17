@@ -37,7 +37,8 @@ The [Hour of Code](https://hourofcode.com) is a global movement reaching tens of
 ## Books
 
 ### Computer Science
-- 
+
+- [Lauren Ipsum: A Story About Computer Science and Other Improbable Things](https://www.nostarch.com/laurenipsum) - Lauren Ipsum by Carlos Bueno is a whimsical journey through a land where logic and computer science come to life.
 
 ### Python
 
@@ -48,6 +49,11 @@ The [Hour of Code](https://hourofcode.com) is a global movement reaching tens of
 ### JavaScript
 
 ### Scratch
+
+- [Learn to Program with Scratch: A Visual Introduction to Programming with Games, Art, Science, and Math] (https://www.nostarch.com/learnscratch) - Learn to Program with Scratch by Majed Marji uses Scratch to explain the concepts essential to solving real-world programming problems. 
+
+- [Official ScratchJr Book: Help Your Kids Learn to Code](https://www.nostarch.com/scratchjr) - The official ScratchJr book by Marina Umaschi Bers and Mitchel Resnick makes coding easy and fun for all. Kids learn to program by connecting blocks of code to make characters move, jump, dance, and sing.
+
 
 ### Web Design
 
